@@ -1,5 +1,6 @@
 public class Ejercicio2 {
     public static void main(String[] args) {
+
            int v1, v2;
            double resultado;
            v1 = 10;
@@ -8,5 +9,5 @@ public class Ejercicio2 {
            System.out.println("resultado = " + resultado);
            
     }
-    
+   
 }

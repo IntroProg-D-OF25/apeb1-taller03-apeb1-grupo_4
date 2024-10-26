@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Ejercicio9 {
     public static void main(String[] args) {
         double v1, v2, v3, v4;

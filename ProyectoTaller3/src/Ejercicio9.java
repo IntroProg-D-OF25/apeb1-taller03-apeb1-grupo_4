@@ -8,6 +8,6 @@ public class Ejercicio9 {
         v4 = 50;
         resultado = ((v1+v2)*v3) >= v4;
         System.out.println("resultado = " + resultado);
-        
+                
     }
 }
